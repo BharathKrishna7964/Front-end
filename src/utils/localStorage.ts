@@ -68,3 +68,4 @@ export const productStorage = {
     productStorage.setProducts(filtered)
   }
 }
+
